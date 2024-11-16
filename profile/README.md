@@ -35,11 +35,9 @@ This organization handles the CVE Numbering Authority (CNA) for the Erlang Ecosy
 
 This project is maintained by the [Security Working Group](https://erlef.org/wg/security).
 
-<!-- TODO: Put Correct Email -->
 To request a CVE, please email [cna@erlef.org](mailto:cna@erlef.org).
 
-<!-- TODO: Put link to policy -->
-For our security policy, please refer to our [Security Policy](#).
+For our security policy, please refer to our [Security Policy](https://cna.erlef.org/security-policy).
 
 ## Join Us
 
