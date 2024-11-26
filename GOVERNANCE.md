@@ -6,7 +6,7 @@ This document outlines the governance structure, roles, responsibilities, and
 voting mechanisms for the Common Vulnerabilities and Exposures (CVE) Numbering
 Authority (CNA) led by the Erlang Ecosystem Foundation (EEF). The CNA operates
 in collaboration with multiple projects within the Erlang ecosystem, including
-Elixir, Gleam, the Hex Package Manager. and the projects distributed via Hex.pm.
+Elixir, Gleam, the Hex Package Manager, and the projects distributed via Hex.pm.
 
 ## Overview
 
