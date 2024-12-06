@@ -31,13 +31,25 @@
 
 ---
 
-This organization handles the CVE Numbering Authority (CNA) for the Erlang Ecosystem Foundation (EEF). This is not the main organization; please visit the main EEF GitHub organization at [`@erlef`](https://github.com/erlef).
+The Erlang Ecosystem Foundation CNA is a collaborative
+effort to assign and maintain [CVE](https://www.cve.org/) identifiers within the
+ecosystem, providing a consistent and transparent process for reporting,
+documenting, and mitigating security vulnerabilities.
 
-This project is maintained by the [Security Working Group](https://erlef.org/wg/security).
+As a [CNA (CVE Numbering Authority)](https://www.cve.org/programorganization/cnas),
+this initiative encompasses [Erlang](https://www.erlang.org/), [Erlang Ecosystem Foundation](https://erlef.org/),
+[Elixir](https://elixir-lang.org/), [Gleam](https://gleam.run/), [Hex.pm](https://hex.pm),
+and [Hex.pm packages](https://hex.pm/packages) hosted by the
+[Erlang Ecosystem Foundation’s Security Working Group](https://erlef.org/wg/security).
 
-To request a CVE, please email [cna@erlef.org](mailto:cna@erlef.org).
+By following the globally recognized CVE standard, this joint venture ensures a
+unified approach to identifying and addressing security issues across these
+communities.
 
-For our security policy, please refer to our [Security Policy](https://cna.erlef.org/security-policy).
+* [Security Policy](https://cna.erlef.org/security-policy)
+* [CNA Scope](https://cna.erlef.org/scope)
+* [Contact](https://cna.erlef.org/contact)
+* [Issued CVE's](https://cna.erlef.org/cves)
 
 ## Join Us
 
