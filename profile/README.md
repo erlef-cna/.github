@@ -27,10 +27,6 @@
 
 ---
 
-:warning: **Note: This project is currently under construction and is not yet active.** :warning:
-
----
-
 The Erlang Ecosystem Foundation CNA is a collaborative
 effort to assign and maintain [CVE](https://www.cve.org/) identifiers within the
 ecosystem, providing a consistent and transparent process for reporting,
