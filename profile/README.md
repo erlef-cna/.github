@@ -39,6 +39,8 @@ documenting, and mitigating security vulnerabilities.
 As a [CNA (CVE Numbering Authority)](https://www.cve.org/programorganization/cnas),
 this initiative encompasses [Erlang](https://www.erlang.org/), [Erlang Ecosystem Foundation](https://erlef.org/),
 [Elixir](https://elixir-lang.org/), [Gleam](https://gleam.run/), [Hex.pm](https://hex.pm),
+[@nerves-hub](https://github.com/nerves-hub), [@nerves-project](https://github.com/nerves-project),
+[@OpenRiak](https://github.com/OpenRiak),
 and [Hex.pm packages](https://hex.pm/packages) hosted by the
 [Erlang Ecosystem Foundation’s Security Working Group](https://erlef.org/wg/security).
 
